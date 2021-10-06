@@ -27,7 +27,7 @@
 
 - If u use xampp / mamp / wampp move to htodcs folder
 
-- SetUp WordPress <a href='https://themeisle.com/blog/install-xampp-and-wordpress-locally/'></a>
+- SetUp WordPress <a href='https://themeisle.com/blog/install-xampp-and-wordpress-locally/'>Here</a>
 
 <br>
 <br>
