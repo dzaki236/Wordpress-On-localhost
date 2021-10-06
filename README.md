@@ -14,7 +14,7 @@
 
 - Jika kamu menggunakan paket seperti xampp / mamp / wampp pindahkan ke htodcs folder
 
-- SetUp WordPress [Disini]('https://www.hostinger.co.id/tutorial/cara-install-wordpress-di-xampp/')
+- SetUp WordPress <a href='https://www.hostinger.co.id/tutorial/cara-install-wordpress-di-xampp/'>Disini</a>
 
 <hr>
 
@@ -27,7 +27,7 @@
 
 - If u use xampp / mamp / wampp move to htodcs folder
 
-- SetUp WordPress [Here]('https://themeisle.com/blog/install-xampp-and-wordpress-locally/')
+- SetUp WordPress <a href='https://themeisle.com/blog/install-xampp-and-wordpress-locally/'</a>
 <br>
 <br>
 # Konfigurasi (Configuration) [php.ini file]
