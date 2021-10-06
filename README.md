@@ -28,8 +28,10 @@
 - If u use xampp / mamp / wampp move to htodcs folder
 
 - SetUp WordPress <a href='https://themeisle.com/blog/install-xampp-and-wordpress-locally/'></a>
+
 <br>
 <br>
+
 # Konfigurasi (Configuration) [php.ini file]
 
 - Set up / setting file <i>"php.ini"</i> pada php nya 
