@@ -35,6 +35,7 @@
 # Konfigurasi (Configuration) [php.ini file]
 
 - Set up / setting file <i>"php.ini"</i> pada php nya 
+- file ini ada di folder <i>"php"</i> yang anda miliki
 - Ubah file nya dengan text editor
 - Ubah Bagian : 
 ```
